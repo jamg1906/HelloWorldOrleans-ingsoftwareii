@@ -1,0 +1,15 @@
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\bin\Debug\net7.0\Grains.deps.json
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\bin\Debug\net7.0\Grains.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\bin\Debug\net7.0\Grains.pdb
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\bin\Debug\net7.0\GrainInterfaces.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\bin\Debug\net7.0\GrainInterfaces.pdb
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.csproj.AssemblyReference.cache
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.AssemblyInfoInputs.cache
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.AssemblyInfo.cs
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.csproj.CoreCompileInputs.cache
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.csproj.CopyComplete
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\refint\Grains.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\Grains.pdb
+C:\Users\jamg1\source\repos\OrleansHelloWorld\Grains\obj\Debug\net7.0\ref\Grains.dll

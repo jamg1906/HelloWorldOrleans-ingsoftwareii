@@ -1,0 +1,12 @@
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\bin\Debug\net7.0\GrainInterfaces.deps.json
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\bin\Debug\net7.0\GrainInterfaces.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\bin\Debug\net7.0\GrainInterfaces.pdb
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.csproj.AssemblyReference.cache
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.AssemblyInfoInputs.cache
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.AssemblyInfo.cs
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\refint\GrainInterfaces.dll
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\GrainInterfaces.pdb
+C:\Users\jamg1\source\repos\OrleansHelloWorld\GrainInterfaces\obj\Debug\net7.0\ref\GrainInterfaces.dll
